@@ -54,5 +54,8 @@
     <p>
         <asp:Label ID="CreateAccountResults" runat="server"></asp:Label>
     </p>    
+<p>
+        <asp:Label ID="CreateAccountResults2" runat="server"></asp:Label>
+    </p>    
 </asp:Content>
 
